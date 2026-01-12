@@ -4,7 +4,7 @@ project(HelloWorld)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
-add_compile_options(-Wall -Wextra)
+add_compile_options(-Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -pedantic-errors)
 
 include_directories(include)
 
