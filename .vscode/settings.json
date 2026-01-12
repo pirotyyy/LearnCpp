@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "C_Cpp.clang_format_path": "/opt/homebrew/bin/clang-format",
+  "C_Cpp.default.compilerPath": "/usr/bin/clang",
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format",
+  },
+  "[c]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  }
+}
